@@ -4,7 +4,9 @@
 
 - Program ini menerima input nama dari pengguna
 - Kemudian menampilkan pesan sambutan yang dipersonalisasi:
+
   Masukkan nama Anda: (Nama Anda)
+
   Selamat datang di Java, (Nama Anda)!
 
   
