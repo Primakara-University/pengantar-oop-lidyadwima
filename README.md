@@ -1,7 +1,5 @@
 ## Program Selamat Datang (Nama) di Java
 
-
-
 ## Deskripsi Program Yang Dibuat Saat Ini:
 
 - Program ini menerima input nama dari pengguna
